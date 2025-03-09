@@ -1,0 +1,11 @@
+//GAME NAME:		
+
+//BLOCK #072 NAME:		HP (GBC)
+
+//POINTER #0 @ $53CC8 - STRING #0 @ $53CCA
+
+#W16($53CC8)
+// すごーい！ １００せだい<line>
+// たっせいするなんて サイコー<line>
+// おめでとう！！         ▼<line>
+//<end>

@@ -1,0 +1,35 @@
+//GAME NAME:		
+
+//BLOCK #034 NAME:		HP (GBC)
+
+//POINTER #0 @ $52F8A - STRING #0 @ $52F92
+
+#W16($52F8A)
+// <$FB>は てんじゅを<line>
+// まっとうしたハム。<line>
+//<line>
+//<end>
+
+//POINTER #1 @ $52F8C - STRING #1 @ $52FAA
+
+#W16($52F8C)
+// ブリーダーちが １０ ふえた。<line>
+//<line>
+// <$FA>さん ありがとう・・・   ▼<line>
+//<end>
+
+//POINTER #2 @ $52F8E - STRING #2 @ $52FD3
+
+#W16($52F8E)
+// いつかまた あえたら・・・<line>
+// <$FB> という なまえを<line>
+// ぜったいに わすれないでね。<line>
+//<end>
+
+//POINTER #3 @ $52F90 - STRING #3 @ $53001
+
+#W16($52F90)
+// あいじょうを ひきつげないが<line>
+// べつの ハムスターを<line>
+// そだててみたら どうだハム？<line>
+//<end>

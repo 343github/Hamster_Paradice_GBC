@@ -1,0 +1,19 @@
+//GAME NAME:		
+
+//BLOCK #064 NAME:		HP (GBC)
+
+//POINTER #0 @ $53A90 - STRING #0 @ $53A94
+
+#W16($53A90)
+// はかせ！ <$FA>さんの<line>
+// ハムスターを ずかんに<line>
+// のせておきました。<line>
+//<end>
+
+//POINTER #1 @ $53A92 - STRING #1 @ $53AB9
+
+#W16($53A92)
+// なにか こまったことや<line>
+// わからないことが あったら<line>
+// いつでも れんらくするハム。<line>
+//<end>

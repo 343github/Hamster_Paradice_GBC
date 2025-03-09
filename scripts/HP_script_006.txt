@@ -1,0 +1,39 @@
+//GAME NAME:		
+
+//BLOCK #006 NAME:		HP (GBC)
+
+//POINTER #0 @ $51E9F - STRING #0 @ $51EA9
+
+#W16($51E9F)
+// <$FB>が カーテンに<line>
+// しがみついて こまっています。<line>
+// どうしますか？         ▼<line>
+//<end>
+
+//POINTER #1 @ $51EA1 - STRING #1 @ $51EDB
+
+#W16($51EA1)
+// １ みている<line>
+// ２ たすける<line>
+//<end>
+
+//POINTER #2 @ $51EA3 - STRING #2 @ $51EEC
+
+#W16($51EA3)
+// <$FB>は なんと<line>
+// しがみついたまま ねむっていた。<line>
+// 「たいりょく」が４ふえた。<line>
+//<end>
+
+//POINTER #3 @ $51EA5 - STRING #3 @ $51F18
+
+#W16($51EA5)
+// <$FB>を あやまって<line>
+// おとしてしまった！<line>
+// <$FB>は 「ケガ」をした。<line>
+//<end>
+
+//POINTER #4 @ $51EA7 - STRING #4 @ $51F3C
+
+#W16($51EA7)
+//<end>

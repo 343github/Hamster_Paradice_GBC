@@ -1,0 +1,11 @@
+//GAME NAME:		
+
+//BLOCK #060 NAME:		HP (GBC)
+
+//POINTER #0 @ $5394D - STRING #0 @ $5394F
+
+#W16($5394D)
+// りんじニュースです。<line>
+// たいふうが ちかづいています。<line>
+// ちゅういして ください。<line>
+//<end>

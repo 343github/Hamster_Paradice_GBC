@@ -1,0 +1,28 @@
+//GAME NAME:		
+
+//BLOCK #046 NAME:		HP (GBC)
+
+//POINTER #0 @ $533F7 - STRING #0 @ $533FF
+
+#W16($533F7)
+// おみあいは だいせいこうだハム！<line>
+// おめでとハム！ <$FB>の<line>
+// こどもが たのしみだハム！<line>
+//<end>
+
+//POINTER #1 @ $533F9 - STRING #1 @ $53433
+
+#W16($533F9)
+//<end>
+
+//POINTER #2 @ $533FB - STRING #2 @ $53434
+
+#W16($533FB)
+// <$FB>の こどもたちが<line>
+// うまれたわ！<line>
+//<end>
+
+//POINTER #3 @ $533FD - STRING #3 @ $5344A
+
+#W16($533FD)
+//<end>

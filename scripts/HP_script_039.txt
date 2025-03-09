@@ -1,0 +1,11 @@
+//GAME NAME:		
+
+//BLOCK #039 NAME:		HP (GBC)
+
+//POINTER #0 @ $530D0 - STRING #0 @ $530D2
+
+#W16($530D0)
+// <$FA>さん！ わるくないわ！<line>
+// ひょうかは Ｂランクです。<line>
+// つぎは Ａランクを めざしてね。<line>
+//<end>

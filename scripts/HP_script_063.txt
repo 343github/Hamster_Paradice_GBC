@@ -1,0 +1,27 @@
+//GAME NAME:		
+
+//BLOCK #063 NAME:		HP (GBC)
+
+//POINTER #0 @ $539FF - STRING #0 @ $53A05
+
+#W16($539FF)
+// おやは わしが あずかるハム。<line>
+// ・・・ ん？<line>
+//                 ▼<line>
+//<end>
+
+//POINTER #1 @ $53A01 - STRING #1 @ $53A34
+
+#W16($53A01)
+// なんと <$FA>さんが<line>
+// そだてていた <$FB>は<line>
+// めずらしいハムスターだハム！  ▼<line>
+//<end>
+
+//POINTER #2 @ $53A03 - STRING #2 @ $53A61
+
+#W16($53A03)
+// ぜひとも ハムスターずかんに<line>
+// のせなければ いけないハム！<line>
+// この <$FB>は ・・・<line>
+//<end>

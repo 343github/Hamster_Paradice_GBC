@@ -1,0 +1,17 @@
+//GAME NAME:		
+
+//BLOCK #025 NAME:		HP (GBC)
+
+//POINTER #0 @ $52C52 - STRING #0 @ $52C56
+
+#W16($52C52)
+// ハムムム・・・ ちゃんと<line>
+// そだてないから <$FB>は<line>
+// しんでしまったハム。<line>
+//<end>
+
+//POINTER #1 @ $52C54 - STRING #1 @ $52C7F
+
+#W16($52C54)
+// <$FB> さようなら・・・<line>
+//<end>

@@ -1,0 +1,43 @@
+//GAME NAME:		
+
+//BLOCK #001 NAME:		HP (GBC)
+
+//POINTER #0 @ $51A23 - STRING #0 @ $51A2D
+
+#W16($51A23)
+// <$FB>が ラジカセのコードを<line>
+// かじって あそんでいます。<line>
+// どうしますか？         ▼<line>
+//<end>
+
+//POINTER #1 @ $51A25 - STRING #1 @ $51A64
+
+#W16($51A25)
+// １ スイッチをいれる<line>
+// ２ エサをなげる<line>
+// ３ いっしょにあそぶ<line>
+//<end>
+
+//POINTER #2 @ $51A27 - STRING #2 @ $51A89
+
+#W16($51A27)
+// <$FB>は<line>
+// かんでんしてしまった！<line>
+// <$FB>は 「ケガ」をした。<line>
+//<end>
+
+//POINTER #3 @ $51A29 - STRING #3 @ $51AAA
+
+#W16($51A29)
+// <$FB>は コードのことをわすれ<line>
+// エサを おいかけていった。<line>
+// 「おなか」が１ふえた。<line>
+//<end>
+
+//POINTER #4 @ $51A2B - STRING #4 @ $51AD8
+
+#W16($51A2B)
+// <$FB>は ちょうしにのり<line>
+// おどりはじめた。<line>
+// 「かしこさ」が４へった。<line>
+//<end>

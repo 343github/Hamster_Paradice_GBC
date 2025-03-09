@@ -1,0 +1,18 @@
+//GAME NAME:		
+
+//BLOCK #055 NAME:		HP (GBC)
+
+//POINTER #0 @ $536C9 - STRING #0 @ $536CD
+
+#W16($536C9)
+// <$FA>‚³‚ñ‚É‚Í ‚Ü‚¾‚Ü‚¾<line>
+// ‚â‚ç‚Ë‚Î‚È‚ç‚È‚¢<line>
+// ‚±‚Æ‚ª ‚ ‚éƒnƒ€B      ¥<line>
+//<end>
+
+//POINTER #1 @ $536CB - STRING #1 @ $536FA
+
+#W16($536CB)
+// ‚±‚ê‚©‚ç ‚³‚«‚à<line>
+// ‚ª‚ñ‚Î‚Á‚Ä ‚­‚¾‚³‚¢‚ËI<line>
+//<end>

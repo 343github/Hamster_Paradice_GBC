@@ -1,0 +1,27 @@
+//GAME NAME:		
+
+//BLOCK #017 NAME:		HP (GBC)
+
+//POINTER #0 @ $526F4 - STRING #0 @ $526FA
+
+#W16($526F4)
+// ハムスターセンターへ ようこそ。<line>
+// わしは<line>
+// オーナーの はむぞうだハム。  ▼<line>
+//<end>
+
+//POINTER #1 @ $526F6 - STRING #1 @ $52727
+
+#W16($526F6)
+// いらっしゃいませ。<line>
+// わたしが アシスタントの<line>
+// ミユキおねえさんです。     ▼<line>
+//<end>
+
+//POINTER #2 @ $526F8 - STRING #2 @ $52756
+
+#W16($526F8)
+// あなたの なまえを<line>
+// とうろくするハム。<line>
+//                 ▼<line>
+//<end>

@@ -1,0 +1,11 @@
+//GAME NAME:		
+
+//BLOCK #026 NAME:		HP (GBC)
+
+//POINTER #0 @ $52C8C - STRING #0 @ $52C8E
+
+#W16($52C8C)
+// もう おみあいは できないハム。<line>
+// ざんねんじゃが わしが<line>
+// <$FB>を ひきとるハム。<line>
+//<end>

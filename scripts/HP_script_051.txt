@@ -1,0 +1,17 @@
+//GAME NAME:		
+
+//BLOCK #051 NAME:		HP (GBC)
+
+//POINTER #0 @ $535DC - STRING #0 @ $535E0
+
+#W16($535DC)
+// ちのつながった きょうだいを<line>
+// そだてるチャンスを<line>
+// あげるので          ▼<line>
+//<end>
+
+//POINTER #1 @ $535DE - STRING #1 @ $53613
+
+#W16($535DE)
+// べつのハムスターを えらぶハム。<line>
+//<end>

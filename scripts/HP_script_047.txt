@@ -1,0 +1,18 @@
+//GAME NAME:		
+
+//BLOCK #047 NAME:		HP (GBC)
+
+//POINTER #0 @ $5344B - STRING #0 @ $5344F
+
+#W16($5344B)
+// <$FB>の こどもたちが<line>
+// <$F8>き うまれました！<line>
+//<end>
+
+//POINTER #1 @ $5344D - STRING #1 @ $53469
+
+#W16($5344D)
+// <$FB>は センターで<line>
+// あずかるので こんどは<line>
+// そのこどもを そだてるハム。<line>
+//<end>

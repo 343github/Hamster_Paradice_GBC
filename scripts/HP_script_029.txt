@@ -1,0 +1,27 @@
+//GAME NAME:		
+
+//BLOCK #029 NAME:		HP (GBC)
+
+//POINTER #0 @ $52DD1 - STRING #0 @ $52CF1
+
+#W16($52DD1)
+// ハムムム・・・ ざんねんじゃが<line>
+// <$FB>の ふまんが<line>
+// ばくはつしてしまったハム。<line>
+//<end>
+
+//POINTER #1 @ $52DD3 - STRING #1 @ $52D20
+
+#W16($52DD3)
+// ブリーダーちが １０ へった。<line>
+// あいじょうが  ５ へった。<line>
+// <$FA>さん さようなら・・・<line>
+//<end>
+
+//POINTER #2 @ $52DD5 - STRING #2 @ $52DD7
+
+#W16($52DD5)
+// <$FA>さん！ <$FB>は<line>
+// もう もどりたくないと<line>
+// いっているハム。<line>
+//<end>

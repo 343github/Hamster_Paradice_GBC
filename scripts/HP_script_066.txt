@@ -1,0 +1,26 @@
+//GAME NAME:		
+
+//BLOCK #066 NAME:		HP (GBC)
+
+//POINTER #0 @ $53B51 - STRING #0 @ $53B57
+
+#W16($53B51)
+// ざんねんじゃ<line>
+// <$FA>さんの ブリーダーどは<line>
+// ０になってしまったハム。    ▼<line>
+//<end>
+
+//POINTER #1 @ $53B53 - STRING #1 @ $53B86
+
+#W16($53B53)
+// ぜひ もういちど<line>
+// チャレンジしてほしいハム。<line>
+//                 ▼<line>
+//<end>
+
+//POINTER #2 @ $53B55 - STRING #2 @ $53BB6
+
+#W16($53B55)
+//<line>
+//    ＧＡＭＥ ＯＶＥＲ<line>
+//<end>

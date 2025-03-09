@@ -1,0 +1,19 @@
+//GAME NAME:		
+
+//BLOCK #065 NAME:		HP (GBC)
+
+//POINTER #0 @ $53AE8 - STRING #0 @ $53AEC
+
+#W16($53AE8)
+// な な なんと ながいあいだ<line>
+// まちのぞんでおった<line>
+// ミラクルハムスターじゃハム！  ▼<line>
+//<end>
+
+//POINTER #1 @ $53AEA - STRING #1 @ $53B20
+
+#W16($53AEA)
+// おめでとう！ <$FA>さん！<line>
+// ミラクルハムスターは<line>
+// トップブリーダーのあかしだハム！<line>
+//<end>

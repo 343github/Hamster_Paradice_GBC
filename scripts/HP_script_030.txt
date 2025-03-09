@@ -1,0 +1,11 @@
+//GAME NAME:		
+
+//BLOCK #030 NAME:		HP (GBC)
+
+//POINTER #0 @ $52DF9 - STRING #0 @ $52DFB
+
+#W16($52DF9)
+// ここは ハムスターセンター・・・<line>
+//<end>
+ Centro Hamster  <line>
+<end>

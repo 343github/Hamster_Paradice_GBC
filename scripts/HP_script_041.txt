@@ -1,0 +1,18 @@
+//GAME NAME:		
+
+//BLOCK #041 NAME:		HP (GBC)
+
+//POINTER #0 @ $5313A - STRING #0 @ $5313E
+
+#W16($5313A)
+// そろそろ <$FB>を<line>
+// ハムレースに<line>
+// だしてみては どうかハム？   ▼<line>
+//<end>
+
+//POINTER #1 @ $5313C - STRING #1 @ $53165
+
+#W16($5313C)
+// レースにかてば いろいろな<line>
+// たねが もらえるハム。<line>
+//<end>

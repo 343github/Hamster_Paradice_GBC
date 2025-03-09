@@ -1,0 +1,10 @@
+//GAME NAME:		
+
+//BLOCK #071 NAME:		HP (GBC)
+
+//POINTER #0 @ $53CA7 - STRING #0 @ $53CA9
+
+#W16($53CA7)
+// まだ せいこうしないハム？<line>
+// もっとがんばるハム！<line>
+//<end>

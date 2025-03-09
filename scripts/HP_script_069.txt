@@ -1,0 +1,11 @@
+//GAME NAME:		
+
+//BLOCK #069 NAME:		HP (GBC)
+
+//POINTER #0 @ $53C18 - STRING #0 @ $53C1A
+
+#W16($53C18)
+// ハムスターが びょうきや<line>
+// けがのときは ハムセンターに<line>
+// アクセスできません。<line>
+//<end>

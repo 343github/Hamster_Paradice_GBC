@@ -1,0 +1,10 @@
+//GAME NAME:		
+
+//BLOCK #037 NAME:		HP (GBC)
+
+//POINTER #0 @ $5307A - STRING #0 @ $5307C
+
+#W16($5307A)
+// Ç®ÇﬂÇ≈Ç∆Ç§ÅI <$FB>Ç™<line>
+// ÇÌÇ©Ç‡ÇÃÇ©ÇÁ Ç®Ç∆Ç»Ç…Ç»Ç¡ÇΩÅB<line>
+//<end>

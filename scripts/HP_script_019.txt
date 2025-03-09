@@ -1,0 +1,10 @@
+//GAME NAME:		
+
+//BLOCK #019 NAME:		HP (GBC)
+
+//POINTER #0 @ $52A3B - STRING #0 @ $52A3D
+
+#W16($52A3B)
+// えらんだハムスターに<line>
+// なまえを つけてください。<line>
+//<end>

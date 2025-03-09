@@ -1,0 +1,43 @@
+//GAME NAME:		
+
+//BLOCK #003 NAME:		HP (GBC)
+
+//POINTER #0 @ $51BEF - STRING #0 @ $51BF9
+
+#W16($51BEF)
+// <$FB>が うえきばちのなかで<line>
+// はちと あそんでいます。<line>
+// どうしますか？         ▼<line>
+//<end>
+
+//POINTER #1 @ $51BF1 - STRING #1 @ $51C2E
+
+#W16($51BF1)
+// １ エサをなげる<line>
+// ２ おしりをつつく<line>
+// ３ チューリップにみずをやる<line>
+//<end>
+
+//POINTER #2 @ $51BF3 - STRING #2 @ $51C57
+
+#W16($51BF3)
+// <$FB>は まちがえて<line>
+// はなを たべてしまった。<line>
+// 「かしこさ」が４へった。<line>
+//<end>
+
+//POINTER #3 @ $51BF5 - STRING #3 @ $51C81
+
+#W16($51BF5)
+// <$FB>は おどろいて<line>
+// はちから おちてしまった！<line>
+// <$FB>は 「ケガ」をした。<line>
+//<end>
+
+//POINTER #4 @ $51BF7 - STRING #4 @ $51CAA
+
+#W16($51BF7)
+// <$FB>は あわてて<line>
+// はちのまわりを かけまわった。<line>
+// 「たいりょく」が４ふえた。<line>
+//<end>

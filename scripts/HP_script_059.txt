@@ -1,0 +1,10 @@
+//GAME NAME:		
+
+//BLOCK #059 NAME:		HP (GBC)
+
+//POINTER #0 @ $53925 - STRING #0 @ $53927
+
+#W16($53925)
+// ブリーダーど がゼロなので<line>
+// おみあい しっかくだハム。<line>
+//<end>

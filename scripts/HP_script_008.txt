@@ -1,0 +1,43 @@
+//GAME NAME:		
+
+//BLOCK #008 NAME:		HP (GBC)
+
+//POINTER #0 @ $51FDD - STRING #0 @ $51FE7
+
+#W16($51FDD)
+// <$FB>が ほんのちかくを<line>
+// うろうろしています。<line>
+// どうしますか？         ▼<line>
+//<end>
+
+//POINTER #1 @ $51FDF - STRING #1 @ $52015
+
+#W16($51FDF)
+// １ いっしょにあそぶ<line>
+// ２ ほんをひらく<line>
+// ３ なまえをよぶ<line>
+//<end>
+
+//POINTER #2 @ $51FE1 - STRING #2 @ $52038
+
+#W16($51FE1)
+// <$FB>は ほんにはさまれて<line>
+// ハムサンドになった！<line>
+// 「しんらい」が１へった。<line>
+//<end>
+
+//POINTER #3 @ $51FE3 - STRING #3 @ $52062
+
+#W16($51FE3)
+// <$FB>は でんきの<line>
+// ほんをよみはじめた。<line>
+// 「かしこさ」が４ふえた。<line>
+//<end>
+
+//POINTER #4 @ $51FE5 - STRING #4 @ $52089
+
+#W16($51FE5)
+// <$FB>は なんと<line>
+// ほんをかじって にげていった。<line>
+// 「しんらい」が１へった。<line>
+//<end>

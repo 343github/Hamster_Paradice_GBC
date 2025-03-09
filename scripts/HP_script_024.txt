@@ -1,0 +1,84 @@
+//GAME NAME:		
+
+//BLOCK #024 NAME:		HP (GBC)
+
+//POINTER #0 @ $52AF6 - STRING #0 @ $52B0E
+
+#W16($52AF6)
+// どのハムスターが いいハム？<line>
+// せんたく・・・じゅうじボタン<line>
+// けってい・・・Ａボタン<line>
+//<end>
+
+//POINTER #1 @ $52AF8 - STRING #1 @ $52B42
+
+#W16($52AF8)
+// このハムスターは<line>
+// すなおな メスだハム。<line>
+// けってい・・Ａ  やめる・・Ｂ<line>
+//<end>
+
+//POINTER #2 @ $52AFA - STRING #2 @ $52B6C
+
+#W16($52AFA)
+//<end>
+
+//POINTER #3 @ $52AFC - STRING #3 @ $52B6D
+
+#W16($52AFC)
+// このハムスターは げんきな<line>
+// せいかくの オスだハム。<line>
+// けってい・・Ａ  やめる・・Ｂ<line>
+//<end>
+
+//POINTER #4 @ $52AFE - STRING #4 @ $52B9E
+
+#W16($52AFE)
+//<end>
+
+//POINTER #5 @ $52B00 - STRING #5 @ $52B9F
+
+#W16($52B00)
+// このハムスターは<line>
+// かしこそうな オスだハム。<line>
+// けってい・・Ａ  やめる・・Ｂ<line>
+//<end>
+
+//POINTER #6 @ $52B02 - STRING #6 @ $52BCB
+
+#W16($52B02)
+//<end>
+
+//POINTER #7 @ $52B04 - STRING #7 @ $52BCC
+
+#W16($52B04)
+// このハムスターは<line>
+// わんぱくな メスだハム。<line>
+// けってい・・Ａ  やめる・・Ｂ<line>
+//<end>
+
+//POINTER #8 @ $52B06 - STRING #8 @ $52BF8
+
+#W16($52B06)
+//<end>
+
+//POINTER #9 @ $52B08 - STRING #9 @ $52BF9
+
+#W16($52B08)
+// このハムスターは<line>
+// おおぼけな メスだハム。<line>
+// けってい・・Ａ  やめる・・Ｂ<line>
+//<end>
+
+//POINTER #10 @ $52B0A - STRING #10 @ $52C25
+
+#W16($52B0A)
+//<end>
+
+//POINTER #11 @ $52B0C - STRING #11 @ $52C26
+
+#W16($52B0C)
+// このハムスターは<line>
+// わがままな オスだハム。<line>
+// けってい・・Ａ  やめる・・Ｂ<line>
+//<end>

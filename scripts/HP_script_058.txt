@@ -1,0 +1,19 @@
+//GAME NAME:		
+
+//BLOCK #058 NAME:		HP (GBC)
+
+//POINTER #0 @ $538EB - STRING #0 @ $532CD
+
+#W16($538EB)
+// おみあいできるように なったら<line>
+// センターから れんらくが<line>
+// はいるので がんばってください。<line>
+//<end>
+
+//POINTER #1 @ $538ED - STRING #1 @ $538EF
+
+#W16($538ED)
+// おみあい しっぱいだハム。<line>
+// ブリーダーど をー１０して<line>
+// もういちど おみあいだハム。<line>
+//<end>

@@ -1,0 +1,55 @@
+//GAME NAME:		
+
+//BLOCK #031 NAME:		HP (GBC)
+
+//POINTER #0 @ $52E0E - STRING #0 @ $52E1C
+
+#W16($52E0E)
+// はやく おおきくして やらんから<line>
+// ふまんが ばくはつしたハム。<line>
+//<end>
+
+//POINTER #1 @ $52E10 - STRING #1 @ $52E41
+
+#W16($52E10)
+// ブリーダーちが １０ へった。<line>
+// あいじょうが  ５ へった。<line>
+//<end>
+
+//POINTER #2 @ $52E12 - STRING #2 @ $52E68
+
+#W16($52E12)
+// もういちど チャンスを<line>
+// あげるから はやく<line>
+// おおきくして あげるハム。  ▼<line>
+//<end>
+
+//POINTER #3 @ $52E14 - STRING #3 @ $52D55
+
+#W16($52E14)
+// <$FB>！<line>
+// ごしゅじんの <$FA>さんが<line>
+// むかえに きてるハム。<line>
+//<end>
+
+//POINTER #4 @ $52E16 - STRING #4 @ $52D77
+
+#W16($52E16)
+// ・・・・<line>
+//<end>
+
+//POINTER #5 @ $52E18 - STRING #5 @ $52D7E
+
+#W16($52E18)
+// <$FB>が <$FA>さんを<line>
+// ゆるしてくれたハム・・・<line>
+//                ▼<line>
+//<end>
+
+//POINTER #6 @ $52E1A - STRING #6 @ $52E96
+
+#W16($52E1A)
+// こんど <$FB>の<line>
+// ふまんが ばくはつしたら<line>
+// わしは しらんハム。<line>
+//<end>

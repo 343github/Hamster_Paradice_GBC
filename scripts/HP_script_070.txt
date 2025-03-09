@@ -1,0 +1,19 @@
+//GAME NAME:		
+
+//BLOCK #070 NAME:		HP (GBC)
+
+//POINTER #0 @ $53C49 - STRING #0 @ $53C4D
+
+#W16($53C49)
+// おみあいもくひょう<line>
+// たっせい おめでとう！<line>
+//                 ▼<line>
+//<end>
+
+//POINTER #1 @ $53C4B - STRING #1 @ $53C7A
+
+#W16($53C4B)
+// これからは おみあいしか<line>
+// できないハム。 ５かいのうちに<line>
+// せいこうさせるハム。<line>
+//<end>

@@ -1,0 +1,11 @@
+//GAME NAME:		
+
+//BLOCK #067 NAME:		HP (GBC)
+
+//POINTER #0 @ $53BC6 - STRING #0 @ $53BC8
+
+#W16($53BC6)
+// ざんねんじゃハム。<line>
+// べつの ハムスターを あげるので<line>
+// こんどは それを そだてるハム。▼<line>
+//<end>

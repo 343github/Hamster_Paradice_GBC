@@ -1,0 +1,11 @@
+//GAME NAME:		
+
+//BLOCK #044 NAME:		HP (GBC)
+
+//POINTER #0 @ $53399 - STRING #0 @ $5339B
+
+#W16($53399)
+// ハムムム・・・<line>
+// ざんねんだったハム。<line>
+// また こんど がんばるハム。<line>
+//<end>

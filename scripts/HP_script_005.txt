@@ -1,0 +1,43 @@
+//GAME NAME:		
+
+//BLOCK #005 NAME:		HP (GBC)
+
+//POINTER #0 @ $51DBB - STRING #0 @ $51DC5
+
+#W16($51DBB)
+// <$FB>が ティーカップの<line>
+// ちかくで あそんでいます。<line>
+// どうしますか？         ▼<line>
+//<end>
+
+//POINTER #1 @ $51DBD - STRING #1 @ $51DF9
+
+#W16($51DBD)
+// １ ながめている<line>
+// ２ なまえをよぶ<line>
+// ３ ネコのなきまねをする<line>
+//<end>
+
+//POINTER #2 @ $51DBF - STRING #2 @ $51E1E
+
+#W16($51DBF)
+// <$FB>は カップのなかで<line>
+// ねむってしまった。<line>
+// 「けんこう」が１ふえた。<line>
+//<end>
+
+//POINTER #3 @ $51DC1 - STRING #3 @ $51E47
+
+#W16($51DC1)
+// <$FB>は おどろいて<line>
+// カップごと にげていった。<line>
+// 「かしこさ」が４ふえた。<line>
+//<end>
+
+//POINTER #4 @ $51DC3 - STRING #4 @ $51E74
+
+#W16($51DC3)
+// <$FB>は カップを<line>
+// ひっくりかえして にげた。<line>
+// 「ゆうかんさ」が４へった。<line>
+//<end>

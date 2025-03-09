@@ -1,0 +1,18 @@
+//GAME NAME:		
+
+//BLOCK #062 NAME:		HP (GBC)
+
+//POINTER #0 @ $539A2 - STRING #0 @ $539A6
+
+#W16($539A2)
+// ハムレースを かいさいします。<line>
+// レースに かてば いろいろな<line>
+// たねが もらえます。      ▼<line>
+//<end>
+
+//POINTER #1 @ $539A4 - STRING #1 @ $539DD
+
+#W16($539A4)
+// さんかを きぼうしますか？<line>
+// はい・・・Ａ  いいえ・・・Ｂ<line>
+//<end>

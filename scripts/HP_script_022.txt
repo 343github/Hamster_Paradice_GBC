@@ -1,0 +1,16 @@
+//GAME NAME:		
+
+//BLOCK #022 NAME:		HP (GBC)
+
+//POINTER #0 @ $52AC8 - STRING #0 @ $52ACC
+
+#W16($52AC8)
+// 「ぼくたちの ステージショーを<line>
+// みてください」と<line>
+// いっているハム。<line>
+//<end>
+
+//POINTER #1 @ $52ACA - STRING #1 @ $52AF5
+
+#W16($52ACA)
+//<end>

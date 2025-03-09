@@ -1,0 +1,19 @@
+//GAME NAME:		
+
+//BLOCK #032 NAME:		HP (GBC)
+
+//POINTER #0 @ $52EBC - STRING #0 @ $52EC0
+
+#W16($52EBC)
+// ざんねんながら <$FB>の<line>
+// ふまんが また<line>
+// ばくはつしたようだハム。<line>
+//<end>
+
+//POINTER #1 @ $52EBE - STRING #1 @ $52EE9
+
+#W16($52EBE)
+// ブリーダーちが はんぶんになった。<line>
+// あいじょうが  ぜんぶ へった。<line>
+// <$FB> さようなら・・・<line>
+//<end>

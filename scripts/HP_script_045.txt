@@ -1,0 +1,17 @@
+//GAME NAME:		
+
+//BLOCK #045 NAME:		HP (GBC)
+
+//POINTER #0 @ $533C6 - STRING #0 @ $533CA
+
+#W16($533C6)
+// <$FB>！ おめでとハム！<line>
+//<end>
+
+//POINTER #1 @ $533C8 - STRING #1 @ $533D8
+
+#W16($533C8)
+// センターから しょうひんとして<line>
+// <$F8>を<line>
+// あげるハム！<line>
+//<end>
